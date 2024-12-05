@@ -1,0 +1,8 @@
+body {
+    background-image: url('ex6.jfif'); /* Chemin vers votre image */
+    background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Empêche la répétition de l'image */
+    font-family: Arial, sans-serif; /* Exemple de style de police */
+    
+}
